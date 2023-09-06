@@ -1,4 +1,6 @@
-# cv_template
+# Cross Scale Modulation Network(XSMN)
+    https://ieeexplore.ieee.org/document/10147871
+## cv_template
     Fork自(https://github.com/misads/cv_template)，用于img-img任务。
 　　一个图像复原或分割的统一框架，可以用于去雾🌫、去雨🌧、去模糊、夜景🌃复原、超分辨率👾、像素级分割等等。
 
